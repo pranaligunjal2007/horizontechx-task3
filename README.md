@@ -1,6 +1,6 @@
-# horizontech-task3-inc5000-eda
+# horizontechx-task3-inc5000-eda
 AI-basedInc. 5000 Company Data Analysis and Exploratory Data Analysis using Python, Pandas, NumPy, Matplotlib and Seaborn. 
-# Horizon Tech Task 3 – Inc. 5000 Company Data Analysis
+# Horizon Techx Task 3 – Inc. 5000 Company Data Analysis
 
 ## 📌 Project Overview
 
